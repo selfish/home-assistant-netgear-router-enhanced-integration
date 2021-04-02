@@ -1,0 +1,8 @@
+{
+  "name": "Netgear Enhanced",
+  "zip_release": true,
+  "hide_default_branch": true,
+  "filename": "auto_backup.zip",
+  "render_readme": true,
+  "iot_class": "local_push"
+}
